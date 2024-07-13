@@ -1,0 +1,11 @@
+C:\www\nlw\Journey\Journey\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.deps.json
+C:\www\nlw\Journey\Journey\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.dll
+C:\www\nlw\Journey\Journey\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.pdb
+C:\www\nlw\Journey\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\www\nlw\Journey\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.AssemblyInfoInputs.cache
+C:\www\nlw\Journey\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.AssemblyInfo.cs
+C:\www\nlw\Journey\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.csproj.CoreCompileInputs.cache
+C:\www\nlw\Journey\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.dll
+C:\www\nlw\Journey\Journey\src\Journey.Communication\obj\Debug\net8.0\refint\Journey.Communication.dll
+C:\www\nlw\Journey\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.pdb
+C:\www\nlw\Journey\Journey\src\Journey.Communication\obj\Debug\net8.0\ref\Journey.Communication.dll
